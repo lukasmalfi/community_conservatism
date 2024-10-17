@@ -5,19 +5,19 @@ This repository contains the custom scripts used in the Manuscript "Community co
 
 The following packages and programs are needed:
 
-MAPseq v.2.2.1 
-fastTree  2.1.10
-HPC-CLUST v1.1.0 
-FlashWeave v.0.19.0 
-Python 3.7.6
-Python libraries:
-    numpy 1.18.1
-    Pandas 1.0.3
-    bokeh 2.2.3
-    ete3 3.1.2
-    holoviews 0.11.6
-    scipy 1.4.1
-    WordCloud 1.5.0  
+    MAPseq v.2.2.1 
+    fastTree  2.1.10
+    HPC-CLUST v1.1.0 
+    FlashWeave v.0.19.0 
+    Python 3.7.6
+    Python libraries:
+        numpy 1.18.1
+        Pandas 1.0.3
+        bokeh 2.2.3
+        ete3 3.1.2
+        holoviews 0.11.6
+        scipy 1.4.1
+        WordCloud 1.5.0  
 
 
 For the workflow, we here show the general trend containing all fully annotated microbes (bacteria&archaea). The workflow was then repeated seperately for each shown envionment (animal, marine, freshwater plant and soil) as well as for all phyla which contain >500 99% OTUs. 
