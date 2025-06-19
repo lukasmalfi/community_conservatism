@@ -1,7 +1,7 @@
 
 
 
-setwd("/Users/lukasm/Desktop/community_conservatism/submitted_natecoevo/revision/")
+setwd("/datapath/")
 library("tidyverse") # for general data wrangling and plotting
 library("SIAMCAT")   # for statistical and ML analyses
 library("ape")
