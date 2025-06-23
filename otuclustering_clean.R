@@ -14,7 +14,7 @@ library("ggtree")
 taxname="90_104"
 
 #load the matrix with combined clustering 
-data_loc <- paste0("/datalocation/",taxname,"/",taxname,"matrix_inv.tsv")
+data_loc <- paste0("/datalocation/",taxname,"/",taxname,"matrix_combined.tsv")
 
 tax.profiles <- read.table(data_loc, sep = '\t', quote ='',
                            comment.char ='',
