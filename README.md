@@ -29,4 +29,4 @@ All of these are combined into one file, which is then further processed to plot
 The file "microbes_result_combined.csv" contains the main results of the general microbial trend needed to reproduce the main result figures. Follow the scipt "main_figure_plots" to obtain said plots, and experiment using different percentiles etc. 
 
 
-Additional raw data (OTU-tables etc.) can de downloaded under https://doi.org/10.5281/zenodo.15689423
+Additional raw data (OTU-tables etc.) can de downloaded under https://doi.org/10.5281/zenodo.15689423 and is available as source data in the manuscript.
