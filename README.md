@@ -1,7 +1,7 @@
-# Workflow for "Community conservatism is widespread throughout microbial phyla and environments"
+# Workflow for "Community conservatism is widespread across microbial phyla and environments"
 
 
-This repository contains the custom scripts used in the Manuscript "Community conservatism is widespread throughout microbial phyla and environments". 
+This repository contains the custom scripts used in the Manuscript "Community conservatism is widespread across microbial phyla and environments". 
 
 The following packages and programs are needed:
 
@@ -29,4 +29,4 @@ All of these are combined into one file, which is then further processed to plot
 The file "microbes_result_combined.csv" contains the main results of the general microbial trend needed to reproduce the main result figures. Follow the scipt "main_figure_plots" to obtain said plots, and experiment using different percentiles etc. 
 
 
-Additional raw data (OTU-tables etc.) can de downloaded under https://doi.org/10.5281/zenodo.15689424
+Additional raw data (OTU-tables etc.) can de downloaded under https://doi.org/10.5281/zenodo.15689423
